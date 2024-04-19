@@ -1,3 +1,10 @@
+import barraDeProgreso from "./progress_bar.js";
+import tarjetaDeServicios from "./tarjeta_de_servicios.js";
+import portfolio from "./portfolio.js";
+
+const d = document;
+
+
 /* ********** Menu ********** */
 ((d) => {
   const $btnMenu = d.querySelector(".hamburguer-menu-btn"),
@@ -53,3 +60,26 @@
       });
   });
 })(document);
+
+
+
+
+d.addEventListener("DOMContentLoaded", (e) => {
+  
+  /* ********** Carga de imagen de más definicion ********** */
+  setTimeout(() => {
+    let elemento = d.getElementById("hero-inicio");
+    elemento.style.backgroundimage = "url(assets/web-developer.jpg)";
+  }, 1000);
+
+/* ********** Carga de barra de progreso ********** */
+  barraDeProgreso();
+
+/* ********** Carga de tarjeta de servicios ********** */
+  tarjetaDeServicios();
+
+  /* ********** Carga del portfolio ********** */
+  portfolio();
+})
+
+
