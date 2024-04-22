@@ -1,6 +1,6 @@
 /* ********** HeroImage ********** */
 .hero-image {
-  background-image: url("./assets/dibujo-ingenieria.jpg");
+  background-image: url("assets/dibujo-ingenieria.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
