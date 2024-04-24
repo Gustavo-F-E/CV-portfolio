@@ -60,14 +60,14 @@
     },
     {
       "id": 5,
-      "imagen": "assets/imagen-generica.png",
-      "titulo": "Tesis de maestría",
-      "descripcion": "Proximamente",
+      "imagen": "assets/calculos_tesis.png",
+      "titulo": "Cálculos de mi Tesis de maestría",
+      "descripcion": "Cálculos de mi Tesis de maestría hechos con deferentes lenguajes.",
       "cliente": "Instituto sábato",
       "fecha": "2024",
-      "tipo": "Tesis de Maestría",
-      "enlace_sitio": "#",
-      "enlace_repositorio": "#"
+      "tipo": "Front End",
+      "enlace_sitio": "https://gustavo-f-e.github.io/front-end-calculos-tesis/",
+      "enlace_repositorio": "https://github.com/Gustavo-F-E/front-end-calculos-tesis"
     },
     {
       "id": 6,
