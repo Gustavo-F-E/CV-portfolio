@@ -71,14 +71,14 @@
     },
     {
       "id": 6,
-      "imagen": "assets/imagen-generica.png",
+      "imagen": "assets/porcentajes_fibra_resina_256.png",
       "titulo": "Micrografías",
       "descripcion": "Proximamente",
       "cliente": "Instituto Sábato",
       "fecha": "2024",
       "tipo": "Trabajo de Laboratorio",
-      "enlace_sitio": "#",
-      "enlace_repositorio": "#"
+      "enlace_sitio": "https://docs.google.com/document/d/1SY16Q-C-wNDghmOPbNjQN0vDZIcKZo-nzM1BDdCgNjQ/edit?usp=sharing",
+      "enlace_repositorio": "https://docs.google.com/document/d/1SY16Q-C-wNDghmOPbNjQN0vDZIcKZo-nzM1BDdCgNjQ/edit?usp=sharing"
     }
   ],
   "tarjeta_de_servicios": [
