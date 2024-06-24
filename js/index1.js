@@ -1,5 +1,5 @@
 import barraDeProgreso from "./progress_bar.js";
-import tarjetaDeServicios from "./tarjeta_de_servicios.js";
+//import tarjetaDeServicios from "./tarjeta_de_servicios.js";
 import portfolio from "./portfolio.js";
 
 const d = document;
@@ -76,10 +76,11 @@ d.addEventListener("DOMContentLoaded", (e) => {
   barraDeProgreso();
 
 /* ********** Carga de tarjeta de servicios ********** */
-  tarjetaDeServicios();
+  //tarjetaDeServicios();
 
   /* ********** Carga del portfolio ********** */
   portfolio();
+  console.log('Todo cargado');
 })
 
 

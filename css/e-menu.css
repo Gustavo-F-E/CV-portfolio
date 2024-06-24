@@ -37,6 +37,10 @@
   color: var(--white-color);
 }
 
+.menu div {
+  text-align: center;
+}
+
 .menu a:hover {
   color: var(--link-color);
   background-color: var(--first-color);
