@@ -1,0 +1,190 @@
+{
+  "menu_inicio" : {
+    "data_binding" : "[data-binding='menu_inicio']",
+    "es" : "Inicio",
+    "en" : "Home",
+    "de" : "Startseite",
+    "pt" : "Início"
+  },
+  "menu_acerca" : {
+    "data_binding" : "[data-binding='menu_acerca']",
+    "es" : "Acerca de mí",
+    "en" : "About me",
+    "de" : "Über mich",
+    "pt" : "Sobre mim"
+  },
+  "menu_servicios" : {
+    "data_binding" : "[data-binding='menu_servicios']",
+    "es" : "Servicios",
+    "en" : "Services",
+    "de" : "Dienstleistungen",
+    "pt" : "Serviços"
+  },
+  "menu_portafolio" : {
+    "data_binding" : "[data-binding='menu_portafolio']",
+    "es" : "Portafolio",
+    "en" : "Portfolio",
+    "de" : "Portfolio",
+    "pt" : "Portfólio"
+  },
+  "menu_trayectoria" : {
+    "data_binding" : "[data-binding='menu_trayectoria']",
+    "es" : "Trayectoria",
+    "en" : "Experience",
+    "de" : "Werdegang",
+    "pt" : "Experiência"
+  },
+  "menu_contacto" : {
+    "data_binding" : "[data-binding='menu_contacto]",
+    "es" : "Contacto",
+    "en" : "Contact",
+    "de" : "Kontakt",
+    "pt" : "Contato"
+  },
+  "titulo" : {
+    "data_binding" : "[data-binding='titulo']",
+    "es" : "Portafolio CV - Gustavo Francisco Eichhorn",
+    "en" : "Portfolio CV - Gustavo Francisco Eichhorn",
+    "de" : "Portfolio Lebenslauf - Gustavo Francisco Eichhorn",
+    "pt" : "Portfólio CV - Gustavo Francisco Eichhorn"
+  },
+"profesion" : {
+  "data_binding" : "[data-binding='profesion']",
+  "es" : "Ing. Mecánico y Desarrollador Full-Stack",
+  "en" : "Mechanical Engineer and Full-Stack Developer",
+  "de" : "Maschinenbauingenieur und Full-Stack-Entwickler",
+  "pt" : "Engenheiro Mecânico e Desenvolvedor Full-Stack"
+},
+"profesion2" : {
+  "data_binding" : "[data-binding='profesion2']",
+  "es" : "Ing. Mecánico y Desarrollador Full-Stack",
+  "en" : "Mechanical Engineer and Full-Stack Developer",
+  "de" : "Maschinenbauingenieur und Full-Stack-Entwickler",
+  "pt" : "Engenheiro Mecânico e Desenvolvedor Full-Stack"
+},
+"contactame" : {
+  "data_binding" : "[data-binding='contactame']",
+  "es" : "CONTÁCTAME",
+  "en" : "CONTACT ME",
+  "de" : "KONTAKTIERE MICH",
+  "pt" : "CONTATE-ME"
+},
+"p1" : {
+  "data_binding" : "[data-binding='p1']",
+  "es" : "Desde 2012 tengo experiencia en el área de ingeniería mecánica, trabajando en la Central Nuclear Atucha 2, supervisando el montaje de equipos de I&C, y la Comision Nacional de Energía Atómica, participando en las tareas de integración del satélite SAOCOM 1A y B.",
+  "en" : "Since 2012, I have experience in the field of mechanical engineering, working at the Atucha 2 Nuclear Power Plant, supervising the installation of I&C equipment, and at the National Atomic Energy Commission, participating in the integration tasks of the SAOCOM 1A and B satellites.",
+  "de" : "Seit 2012 habe ich Erfahrung im Bereich des Maschinenbaus. Ich habe bei Atucha 2 Kernkraftwerk gearbeitet, wo ich die Montage von I&C-Equipment überwachte, und bei der Nationalen Atomenergiekommission, wo ich an den Integrationsaufgaben der SAOCOM 1A und B Satelliten beteiligt war.",
+  "pt" : "Desde 2012, tenho experiência na área de engenharia mecânica, trabalhando na Usina Nuclear Atucha 2, supervisionando a montagem de equipamentos de I&C, e na Comissão Nacional de Energia Atômica, participando das tarefas de integração dos satélites SAOCOM 1A e B."
+},
+"p2" : {
+  "data_binding" : "[data-binding='p2']",
+  "es" : "También tengo una breve experiencia como docente universitario en la UTN Regional Campana, siendo Jefe de Trabajos Prácticos de la asignatura 'Termodinámica' para alumnos de 3º año de las carreras de Ingeniería mecánica y electromecánica.",
+  "en" : "I also have brief experience as a university lecturer at UTN Regional Campana, serving as Teaching Assistant for the course 'Thermodynamics' for 3rd-year students in Mechanical and Electromechanical Engineering programs.",
+  "de" : "Ich habe auch kurze Erfahrung als Universitätsdozent an der UTN Regional Campana, wo ich als Leiter der praktischen Übungen für das Fach 'Thermodynamik' für Studenten im 3. Jahr der Studiengänge Maschinenbau und Elektromechanik tätig war.",
+  "pt" : "Também tenho uma breve experiência como professor universitário na UTN Regional Campana, atuando como chefe de trabalhos práticos da disciplina 'Termodinâmica' para alunos do 3º ano dos cursos de Engenharia Mecânica e Eletromecânica."
+},
+"p3" : {
+  "data_binding" : "[data-binding='p3']",
+  "es" : "Poseo conocimientos de diseño asistido por computadora, cálculo estructural mediante el software ANSYS, manejo de equipos (máquina de filament winding), robótica y experiencia de trabajo en laboratorio, que logré gracias a mis estudios en la carrera de 'Magister en Ciencias de los Materiales'.",
+  "en" : "I have knowledge of computer-aided design, structural calculation using ANSYS software, handling of equipment (filament winding machine), robotics, and laboratory work experience, acquired through my studies in the 'Master of Science in Materials Science' program.",
+  "de" : "Ich habe Kenntnisse in computergestütztem Design, struktureller Berechnung mit der ANSYS-Software, im Umgang mit Geräten (Filament-Wickelmaschine), Robotik und Laborerfahrung, die ich durch mein Studium im 'Master of Science in Materialwissenschaften' erworben habe.",
+  "pt" : "Tenho conhecimentos em design assistido por computador, cálculo estrutural usando o software ANSYS, manuseio de equipamentos (máquina de enrolamento de filamentos), robótica e experiência de trabalho em laboratório, adquiridos através dos meus estudos no programa de 'Mestrado em Ciências dos Materiais'."
+},
+"p4" : {
+  "data_binding" : "[data-binding='p4']",
+  "es" : "Últimamente, también me he capacitado en cursos de desarrollo web y bases de datos. Poseo conocimiento sobre los lenguajes HTML, CSS, JavaScript y Python; manejo de bases de datos MySQL, PostgreSQL y MongoDB; y manejo de Django y MERN.",
+  "en" : "Lately, I have also trained in web development and database courses. I have knowledge of HTML, CSS, JavaScript, and Python languages; I handle MySQL, PostgreSQL, and MongoDB databases; and I am proficient in Django and MERN.",
+  "de" : "In letzter Zeit habe ich mich auch in Webentwicklung und Datenbankkursen weitergebildet. Ich habe Kenntnisse in den Sprachen HTML, CSS, JavaScript und Python; ich beherrsche MySQL, PostgreSQL und MongoDB-Datenbanken; und ich bin erfahren in Django und MERN.",
+  "pt" : "Ultimamente, também tenho me capacitado em cursos de desenvolvimento web e bancos de dados. Possuo conhecimento nas linguagens HTML, CSS, JavaScript e Python; manejo bancos de dados MySQL, PostgreSQL e MongoDB; e tenho experiência com Django e MERN."
+},
+"descargaCV" : {
+  "data_binding" : "[data-binding='descargaCV']",
+  "es" : "DESCARGA MI CV",
+  "en" : "DOWNLOAD MY CV",
+  "de" : "CV HERUNTERLADEN",
+  "pt" : "BAIXE MEU CV"
+},
+"habilidades" : {
+  "data_binding" : "[data-binding='habilidades']",
+  "es" : "Mis Habilidades",
+  "en" : "My Skills",
+  "de" : "Meine Fähigkeiten",
+  "pt" : "Minhas Habilidades"
+},
+"ofrecimiento" : {
+  "data_binding" : "[data-binding='ofrecimiento']",
+  "es" : "¿Qué te ofrezco?",
+  "en" : "What do I offer you?",
+  "de" : "Was biete ich dir?",
+  "pt" : "O que te ofereço?"
+},
+"frontend" : {
+  "data_binding" : "[data-binding='frontend']",
+  "es" : "Desarrollo sitios y aplicaciones para plataformas. Utilizando las tecnologías web HTML, CSS, JS, Bootstrap y REACT JS.",
+  "en" : "I develop websites and applications for platforms using web technologies such as HTML, CSS, JS, Bootstrap, and REACT JS.",
+  "de" : "Ich entwickle Websites und Anwendungen für Plattformen unter Verwendung von Webtechnologien wie HTML, CSS, JS, Bootstrap und REACT JS.",
+  "pt" : "Desenvolvo sites e aplicações para plataformas utilizando tecnologias web como HTML, CSS, JS, Bootstrap e REACT JS."
+},
+"backend" : {
+  "data_binding" : "[data-binding='backend']",
+  "es" : "Manejo de frameworks tales como Django y ExpressJS para todo lo que sea back-end y persistencia de datos.",
+  "en" : "I handle frameworks such as Django and ExpressJS for all backend and data persistence.",
+  "de" : "Ich arbeite mit Frameworks wie Django und ExpressJS für alles im Backend und Datenpersistenz.",
+  "pt" : "Manejo de frameworks como Django e ExpressJS para tudo relacionado ao backend e persistência de dados."
+},
+"disenio_1" : {
+  "data_binding" : "[data-binding='disenio_1']",
+  "es" : "Diseño técnico",
+  "en" : "Technical design",
+  "de" : "Technisches Design",
+  "pt" : "Desenho técnico"},
+"disenio_2": {
+  "data_binding": "[data-binding='disenio_1']",
+  "es": "Desarrollo de planos y ensamblajes en 3D utilizando porgramas CAD tales como Solidworks, Inventor o Spaceclaim.",
+  "en": "Development of 3D drawings and assemblies using CAD programs such as Solidworks, Inventor, or Spaceclaim.",
+  "de": "Entwicklung von 3D-Zeichnungen und Baugruppen mit CAD-Programmen wie Solidworks, Inventor oder Spaceclaim.",
+  "pt": "Desenvolvimento de desenhos e montagens em 3D utilizando programas CAD como Solidworks, Inventor ou Spaceclaim."
+},
+"fem_1": {
+  "data_binding": "[data-binding='fem_1']",
+  "es": "Analisis mediante elementos finitos",
+  "en": "Finite element analysis",
+  "de": "Finite-Elemente-Analyse",
+  "pt": "Análise por elementos finitos"
+},
+"fem_2": {
+  "data_binding": "[data-binding='fem_2']",
+  "es": "Realización de simulaciones computacionales de todo tipo de problemas físicos: tanto estructurales, como térmicos, o de fluidodinámica.",
+  "en": "Performing computational simulations of all kinds of physical problems: structural, thermal, or fluid dynamics.",
+  "de": "Durchführung von computergestützten Simulationen aller Arten von physikalischen Problemen: sowohl strukturelle, thermische als auch fluidodynamische.",
+  "pt": "Realização de simulações computacionais de todos os tipos de problemas físicos: estruturais, térmicos ou de fluidodinâmica."
+},
+"rob_1": {
+  "data_binding": "[data-binding='rob_1']",
+  "es": "Robotica",
+  "en": "Robotics",
+  "de": "Robotik",
+  "pt": "Robótica"
+},
+"rob_2": {
+  "data_binding": "[data-binding='rob_2']",
+  "es": "Mis conocimientos me permiten abordar problemas relacionados con automatizaciones y robótica.",
+  "en": "My knowledge allows me to address problems related to automation and robotics.",
+  "de": "Meine Kenntnisse ermöglichen es mir, Probleme im Zusammenhang mit Automatisierung und Robotik anzugehen.",
+  "pt": "Meus conhecimentos me permitem abordar problemas relacionados com automações e robótica."
+},
+"db_1": {
+  "data_binding": "[data-binding='db_1']",
+  "es": "Bases de datos",
+  "en": "Databases",
+  "de": "Datenbanken",
+  "pt": "Bancos de dados"
+},
+"db_2": {
+  "data_binding": "[data-binding='db_2']",
+  "es": "Manejo de bases de datos tales como MySQL, PostgreSQL y MongoDB.",
+  "en": "Handling databases such as MySQL, PostgreSQL, and MongoDB.",
+  "de": "Umgang mit Datenbanken wie MySQL, PostgreSQL und MongoDB. ",
+  "pt": "Manejo de bancos de dados como MySQL, PostgreSQL e MongoDB."
+}
+}

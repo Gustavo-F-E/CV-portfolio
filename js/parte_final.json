@@ -1,0 +1,136 @@
+{
+  "trayectoria_y_experiencia": {
+    "data_binding": "[data-binding='trayectoria_y_experiencia']",
+    "es": "Trayectoria y experiencia",
+    "en": "Career and Experience",
+    "de": "Werdegang und Erfahrung",
+    "pt": "Trajetória e Experiência"
+  },
+  "atucha_2": {
+    "data_binding": "[data-binding='atucha_2']",
+    "es": "Ingeniero Mecánico del Sector de Instrumentación. Supervición del montaje de instrumentación de la Máquina de Recarga de Elementos Combustibles; Botella Basculante, el Canal de Transferencia y muchos otros sistemas.",
+    "en": "Mechanical Engineer in the Instrumentation Sector. Supervision of the installation of instrumentation for the Fuel Element Reload Machine; Tilting Bottle, the Transfer Channel, and many other systems.",
+    "de": "Maschinenbauingenieur im Bereich Instrumentierung. Überwachung der Installation von Instrumentierung für die Brennelemente-Lademaschine; Kippflasche, den Transferkanal und viele andere Systeme.",
+    "pt": "Engenheiro Mecânico no Setor de Instrumentação. Supervisão da instalação de instrumentação para a Máquina de Recarregamento de Elementos Combustíveis; Garrafa Basculante, o Canal de Transferência e muitos outros sistemas."
+  },
+  "UTN": {
+    "data_binding": "[data-binding='UTN']",
+    "es": "Docente en la UTN Regional Campana con el cargo de 'Jefe de Trabajos Prácticos' en la cátedra de 'Termodinámica' para alumnos de 3º año de las carreras de Ingeniería Mecánica y Electromecánica.",
+    "en": "Lecturer at UTN Regional Campana with the position of 'Chief of Practical Works' in the 'Thermodynamics' course for 3rd-year students of Mechanical and Electromechanical Engineering.",
+    "de": "Dozent an der UTN Regional Campana mit der Position 'Leiter der Praktischen Arbeiten' im Fach 'Thermodynamik' für Studierende im 3. Jahr der Studiengänge Maschinenbau und Elektromechanik.",
+    "pt": "Docente na UTN Regional Campana com o cargo de 'Chefe de Trabalhos Práticos' na cátedra de 'Termodinâmica' para alunos do 3º ano dos cursos de Engenharia Mecânica e Eletromecânica."
+  },
+  "CNEA": {
+    "data_binding": "[data-binding='CNEA']",
+    "es": "Ingeniero Mecánico perteneciente al Grupo MGSE (Mechanical Ground Support Equipment, Equipos de soporte en tierra mecánicos) perteneciente al Proyecto A.R.A.S. (Antena Radar de Apertura Sintética) del satélite SAOCOM. Participación en la integración de una semiala en las instalaciones de INVAP en Bariloche.",
+    "en": "Mechanical Engineer belonging to the MGSE Group (Mechanical Ground Support Equipment) for the A.R.A.S. Project (Synthetic Aperture Radar Antenna) of the SAOCOM satellite. Participation in the integration of a half-wing at the INVAP facilities in Bariloche.",
+    "de": "Maschinenbauingenieur der MGSE-Gruppe (Mechanical Ground Support Equipment) für das A.R.A.S.-Projekt (Synthetic Aperture Radar Antenna) des SAOCOM-Satelliten. Teilnahme an der Integration eines Halbbeins in den Einrichtungen von INVAP in Bariloche.",
+    "pt": "Engenheiro Mecânico pertencente ao Grupo MGSE (Mechanical Ground Support Equipment) pertencente ao Projeto A.R.A.S. (Antena de Radar de Abertura Sintética) do satélite SAOCOM. Participação na integração de uma semi-asa nas instalações da INVAP em Bariloche."
+  },
+  "CNEA2": {
+    "data_binding": "[data-binding='CNEA2']",
+    "es": "A cargo de la fabricación de tubos de materiales compuestos y diversas tareas de diseño mecánico y asesoramiento en muchos proyectos tales como el QUBIC y el CAREM. Realización de mi maestría en Cs. de los Materiales.",
+    "en": "In charge of manufacturing composite material tubes and various mechanical design and advisory tasks in many projects such as QUBIC and CAREM. Pursuing my Master's degree in Materials Science.",
+    "de": "Verantwortlich für die Herstellung von Verbundwerkstoffrohren und verschiedene Aufgaben im Bereich mechanische Konstruktion und Beratung in vielen Projekten wie QUBIC und CAREM. Durchführung meines Masterstudiums in Materialwissenschaften.",
+    "pt": "Responsável pela fabricação de tubos de materiais compostos e diversas tarefas de design mecânico e assessoria em muitos projetos como o QUBIC e o CAREM. Realizando meu mestrado em Ciências dos Materiais."
+  },
+  "CNEA3": {
+    "data_binding": "[data-binding='CNEA3']",
+    "es": "2019-Actualidad",
+    "en": "2019-Present",
+    "de": "2019-Gegenwart",
+    "pt": "2019-Atualidade"
+  },
+  "interesado": {
+    "data_binding": "[data-binding='interesado']",
+    "es": "¿Interesado?",
+    "en": "Interested?",
+    "de": "Interessiert?",
+    "pt": "Interessado?"
+  },
+  "location": {
+    "data_binding": "[data-binding='location']",
+    "es": "UBICACIÓN",
+    "en": "LOCATION",
+    "de": "STANDORT",
+    "pt": "LOCALIZAÇÃO"
+  },
+  "phone": {
+    "data_binding": "[data-binding='phone']",
+    "es": "TELÉFONO",
+    "en": "PHONE",
+    "de": "TELEFON",
+    "pt": "TELEFONE"
+  },
+  "mail": {
+    "data_binding": "[data-binding='mail']",
+    "es": "Correo Electrónico",
+    "en": "Email",
+    "de": "E-Mail",
+    "pt": "E-mail"
+  },
+  "social_media": {
+    "data_binding": "[data-binding='social_media']",
+    "es": "Redes Sociales",
+    "en": "Social Networks",
+    "de": "Soziale Netzwerke",
+    "pt": "Redes Sociais"
+  },
+  "gracias_1": {
+    "data_binding": "[data-binding='gracias_1']",
+    "es": "¡Muchas Gracias!",
+    "en": "Thank you very much!",
+    "de": "Vielen Dank!",
+    "pt": "Muito obrigado!"
+  },
+  "gracias_2": {
+    "data_binding": "[data-binding='gracias_2']",
+    "es": "Por tus comentarios",
+    "en": "For your comments",
+    "de": "Für Ihre Kommentare",
+    "pt": "Pelos seus comentários"
+  },
+  "footer": {
+    "data_binding": "[data-binding='footer']",
+    "es": "Sitio diseñado por",
+    "en": "Site designed by",
+    "de": "Website entworfen von",
+    "pt": "Site desenhado por"
+  },
+  "name_placeholder": {
+    "es": "Ingresa tu nombre *",
+    "en": "Enter your name *",
+    "de": "Geben Sie Ihren Namen ein *",
+    "pt": "Digite seu nome *"
+  },
+  "name_title": {
+    "es": "Nombre sólo acepta letras y espacios en blanco",
+    "en": "Name only accepts letters and white spaces",
+    "de": "Name akzeptiert nur Buchstaben und Leerzeichen",
+    "pt": "Nome só aceita letras e espaços em branco"
+  },
+  "email_placeholder": {
+    "es": "Ingresa tu correo *",
+    "en": "Enter your email *",
+    "de": "Geben Sie Ihre E-Mail ein *",
+    "pt": "Digite seu e-mail *"
+  },
+  "email_title": {
+    "es": "Email incorrecto",
+    "en": "Incorrect email",
+    "de": "Falsche E-Mail",
+    "pt": "Email incorreto"
+  },
+  "comments_placeholder": {
+    "es": "Déjame tus comentarios *",
+    "en": "Leave your comments *",
+    "de": "Hinterlassen Sie Ihre Kommentare *",
+    "pt": "Deixe seus comentários *"
+  },
+  "submit_value": {
+    "es": "ENVIAR MENSAJE",
+    "en": "SEND MESSAGE",
+    "de": "NACHRICHT SENDEN",
+    "pt": "ENVIAR MENSAGEM"
+  }
+}

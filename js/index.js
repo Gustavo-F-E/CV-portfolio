@@ -1,9 +1,10 @@
 import barraDeProgreso from "./progress_bar.js";
 //import tarjetaDeServicios from "./tarjeta_de_servicios.js";
-import portfolio from "./portfolio.js";
+//import portfolio from "./portfolio.js";
+import traducir from "./data_binding_translate.js";
+import traducir_elementos_formulario from "./traducir_elementos_formulario.js";
 
 const d = document;
-
 
 /* ********** Menu ********** */
 ((d) => {
@@ -72,15 +73,22 @@ d.addEventListener("DOMContentLoaded", (e) => {
     elemento.style.backgroundimage = "url(assets/web-developer.jpg)";
   }, 1000);
 
-/* ********** Carga de barra de progreso ********** */
+  /* ********** Carga de barra de progreso ********** */
   barraDeProgreso();
 
-/* ********** Carga de tarjeta de servicios ********** */
+  /* ********** Carga de tarjeta de servicios ********** */
   //tarjetaDeServicios();
 
   /* ********** Carga del portfolio ********** */
-  portfolio();
-  console.log('Todo cargado');
+  //portfolio();
+
+  /* ********** Traducciones ********** */
+  traducir('js/traduccion.json');
+  traducir('js/modal.json');
+  traducir('js/parte_final.json');
+  traducir_elementos_formulario();
 })
+
+
 
 

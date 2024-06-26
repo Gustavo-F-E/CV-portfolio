@@ -43,6 +43,14 @@ background-color: #eee;
 .dropdown:hover #dropdown-content {
 display: block;
 }
+
+#lang img{
+  margin-left: 2rem;
+  height: 2rem;
+  width: auto;
+
+}
+
 @media screen and (max-width: 1023px) {
   #dropdown-content {
     position: absolute;

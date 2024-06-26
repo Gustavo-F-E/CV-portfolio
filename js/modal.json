@@ -1,0 +1,401 @@
+{
+  "tb": {
+    "data_binding": "[data-binding='tb']",
+    "es": "Algunos de mis trabajos",
+    "en": "Some of my works",
+    "de": "Einige meiner Arbeiten",
+    "pt": "Alguns dos meus trabalhos"
+  },
+  "tb_1_titulo": {
+    "data_binding": "[data-binding='tb_1_titulo']",
+    "es": "Descubriendo Argentina",
+    "en": "Discovering Argentina",
+    "de": "Argentinien entdecken",
+    "pt": "Descobrindo a Argentina"
+  },
+  "tb_1_descripcion": {
+    "data_binding": "[data-binding='tb_1_descripcion']",
+    "es": "Proyecto perteneciente al desarrollo web de una página estática en el curso de FullStack Python de 2022.",
+    "en": "Project belonging to the web development of a static page in the FullStack Python course of 2022.",
+    "de": "Projekt im Rahmen der Webentwicklung einer statischen Seite im FullStack Python Kurs von 2022.",
+    "pt": "Projeto pertencente ao desenvolvimento web de uma página estática no curso de FullStack Python de 2022."
+  },
+  "tb_2_titulo": {
+    "data_binding": "[data-binding='tb_2_titulo']",
+    "es": "Veterinaria",
+    "en": "Veterinary",
+    "de": "Veterinärmedizin",
+    "pt": "Veterinária"
+  },
+  "tb_2_descripcion": {
+    "data_binding": "[data-binding='tb_2_descripcion']",
+    "es": "Proyecto perteneciente al desarrollo web de una página estática en el curso de Django de 2023.",
+    "en": "Project belonging to the web development of a static page in the Django course of 2023.",
+    "de": "Projekt im Rahmen der Webentwicklung einer statischen Seite im Django Kurs von 2023.",
+    "pt": "Projeto pertencente ao desenvolvimento web de uma página estática no curso de Django de 2023."
+  },
+  "tb_3_titulo": {
+    "data_binding": "[data-binding='tb_3_titulo']",
+    "es": "Analisis estructural en ANSYS",
+    "en": "Structural analysis in ANSYS",
+    "de": "Strukturanalyse in ANSYS",
+    "pt": "Análise estrutural no ANSYS"
+  },
+  "tb_3_descripcion": {
+    "data_binding": "[data-binding='tb_3_descripcion']",
+    "es": "Analisis y resolución de un problema de relativa complejidad mediante el uso de ANSYS APDL.",
+    "en": "Analysis and resolution of a relatively complex problem using ANSYS APDL.",
+    "de": "Analyse und Lösung eines relativ komplexen Problems mit ANSYS APDL.",
+    "pt": "Análise e resolução de um problema de relativa complexidade usando ANSYS APDL."
+  },
+  "tb_4_titulo": {
+    "data_binding": "[data-binding='tb_4_titulo']",
+    "es": "Desarrollo de un Plan de Inspeccion en servicio",
+    "en": "Development of a Service Inspection Plan",
+    "de": "Entwicklung eines Service-Inspektionsplans",
+    "pt": "Desenvolvimento de um Plano de Inspeção em Serviço"
+  },
+  "tb_4_descripcion": {
+    "data_binding": "[data-binding='tb_4_descripcion']",
+    "es": "Propuesta de un plan de inspeccion en servicio (ISI) para el reactor de la Central CAREM-25.",
+    "en": "Proposal of a service inspection plan (ISI) for the reactor of the CAREM-25 Plant.",
+    "de": "Vorschlag eines Service-Inspektionsplans (ISI) für den Reaktor der CAREM-25 Anlage.",
+    "pt": "Proposta de um plano de inspeção em serviço (ISI) para o reator da Central CAREM-25."
+  },
+  "tb_5_titulo": {
+    "data_binding": "[data-binding='tb_5_titulo']",
+    "es": "Cálculos de mi Tesis de maestría",
+    "en": "Calculations for my Master's thesis",
+    "de": "Berechnungen für meine Masterarbeit",
+    "pt": "Cálculos da minha Dissertação de Mestrado"
+  },
+  "tb_5_descripcion": {
+    "data_binding": "[data-binding='tb_5_descripcion']",
+    "es": "Cálculos de mi Tesis de maestría hechos con deferentes lenguajes.",
+    "en": "Calculations for my Master's thesis done with different languages.",
+    "de": "Berechnungen für meine Masterarbeit, durchgeführt mit verschiedenen Sprachen.",
+    "pt": "Cálculos da minha Dissertação de Mestrado feitos com diferentes linguagens."
+  },
+  "tb_6_titulo": {
+    "data_binding": "[data-binding='tb_6_titulo']",
+    "es": "Micrografías",
+    "en": "Micrographs",
+    "de": "Mikrografien",
+    "pt": "Micrografias"
+  },
+  "tb_6_descripcion": {
+    "data_binding": "[data-binding='tb_6_descripcion']",
+    "es": "Procedimiento seguido en mi Tesis para la obtención del porcentaje de fibra y de resina utilizando micrografias.",
+    "en": "Procedure followed in my thesis to obtain the percentage of fiber and resin using micrographs.",
+    "de": "Verfahren in meiner Arbeit zur Bestimmung des Anteils an Faser und Harz mittels Mikrografien.",
+    "pt": "Procedimento seguido na minha Dissertação para obter a porcentagem de fibra e resina usando micrografias."
+  },
+  "tb_1_titulo2": {
+    "data_binding": "[data-binding='tb_1_titulo']",
+    "es": "Descubriendo Argentina",
+    "en": "Discovering Argentina",
+    "de": "Argentinien entdecken",
+    "pt": "Descobrindo a Argentina"
+  },
+  "tb_1_descripcion2": {
+    "data_binding": "[data-binding='tb_1_descripcion']",
+    "es": "Proyecto perteneciente al desarrollo web de una página estática en el curso de FullStack Python de 2022.",
+    "en": "Project belonging to the web development of a static page in the FullStack Python course of 2022.",
+    "de": "Projekt im Rahmen der Webentwicklung einer statischen Seite im FullStack Python Kurs von 2022.",
+    "pt": "Projeto pertencente ao desenvolvimento web de uma página estática no curso de FullStack Python de 2022."
+  },
+  "tb_2_titulo2": {
+    "data_binding": "[data-binding='tb_2_titulo']",
+    "es": "Veterinaria",
+    "en": "Veterinary",
+    "de": "Veterinärmedizin",
+    "pt": "Veterinária"
+  },
+  "tb_2_descripcion2": {
+    "data_binding": "[data-binding='tb_2_descripcion']",
+    "es": "Proyecto perteneciente al desarrollo web de una página estática en el curso de Django de 2023.",
+    "en": "Project belonging to the web development of a static page in the Django course of 2023.",
+    "de": "Projekt im Rahmen der Webentwicklung einer statischen Seite im Django Kurs von 2023.",
+    "pt": "Projeto pertencente ao desenvolvimento web de uma página estática no curso de Django de 2023."
+  },
+  "tb_3_titulo2": {
+    "data_binding": "[data-binding='tb_3_titulo']",
+    "es": "Analisis estructural en ANSYS",
+    "en": "Structural analysis in ANSYS",
+    "de": "Strukturanalyse in ANSYS",
+    "pt": "Análise estrutural no ANSYS"
+  },
+  "tb_3_descripcion2": {
+    "data_binding": "[data-binding='tb_3_descripcion']",
+    "es": "Analisis y resolución de un problema de relativa complejidad mediante el uso de ANSYS APDL.",
+    "en": "Analysis and resolution of a relatively complex problem using ANSYS APDL.",
+    "de": "Analyse und Lösung eines relativ komplexen Problems mit ANSYS APDL.",
+    "pt": "Análise e resolução de um problema de relativa complexidade usando ANSYS APDL."
+  },
+  "tb_4_titulo2": {
+    "data_binding": "[data-binding='tb_4_titulo']",
+    "es": "Desarrollo de un Plan de Inspeccion en servicio",
+    "en": "Development of a Service Inspection Plan",
+    "de": "Entwicklung eines Service-Inspektionsplans",
+    "pt": "Desenvolvimento de um Plano de Inspeção em Serviço"
+  },
+  "tb_4_descripcion2": {
+    "data_binding": "[data-binding='tb_4_descripcion']",
+    "es": "Propuesta de un plan de inspeccion en servicio (ISI) para el reactor de la Central CAREM-25.",
+    "en": "Proposal of a service inspection plan (ISI) for the reactor of the CAREM-25 Plant.",
+    "de": "Vorschlag eines Service-Inspektionsplans (ISI) für den Reaktor der CAREM-25 Anlage.",
+    "pt": "Proposta de um plano de inspeção em serviço (ISI) para o reator da Central CAREM-25."
+  },
+  "tb_5_titulo2": {
+    "data_binding": "[data-binding='tb_5_titulo']",
+    "es": "Cálculos de mi Tesis de maestría",
+    "en": "Calculations for my Master's thesis",
+    "de": "Berechnungen für meine Masterarbeit",
+    "pt": "Cálculos da minha Dissertação de Mestrado"
+  },
+  "tb_5_descripcion2": {
+    "data_binding": "[data-binding='tb_5_descripcion']",
+    "es": "Cálculos de mi Tesis de maestría hechos con deferentes lenguajes.",
+    "en": "Calculations for my Master's thesis done with different languages.",
+    "de": "Berechnungen für meine Masterarbeit, durchgeführt mit verschiedenen Sprachen.",
+    "pt": "Cálculos da minha Dissertação de Mestrado feitos com diferentes linguagens."
+  },
+  "tb_6_titulo2": {
+    "data_binding": "[data-binding='tb_6_titulo']",
+    "es": "Micrografías",
+    "en": "Micrographs",
+    "de": "Mikrografien",
+    "pt": "Micrografias"
+  },
+  "tb_6_descripcion2": {
+    "data_binding": "[data-binding='tb_6_descripcion']",
+    "es": "Procedimiento seguido en mi Tesis para la obtención del porcentaje de fibra y de resina utilizando micrografias.",
+    "en": "Procedure followed in my thesis to obtain the percentage of fiber and resin using micrographs.",
+    "de": "Verfahren in meiner Arbeit zur Bestimmung des Anteils an Faser und Harz mittels Mikrografien.",
+    "pt": "Procedimento seguido na minha Dissertação para obter a porcentagem de fibra e resina usando micrografias."
+  },
+  "tb_1_cliente": {
+    "data_binding": "[data-binding='tb_1_cliente']",
+    "es": "CLIENTE:",
+    "en": "CLIENT:",
+    "de": "KUNDE:",
+    "pt": "CLIENTE:"
+  },
+  "tb_1_fecha": {
+    "data_binding": "[data-binding='tb_1_fecha']",
+    "es": "FECHA:",
+    "en": "DATE:",
+    "de": "DATUM:",
+    "pt": "DATA:"
+  },
+  "tb_1_tipo": {
+    "data_binding": "[data-binding='tb_1_tipo']",
+    "es": "TIPO:",
+    "en": "TYPE:",
+    "de": "TYP:",
+    "pt": "TIPO:"
+  },
+  "tb_1_enlace_al_sitio": {
+    "data_binding": "[data-binding='tb_1_enlace_al_sitio']",
+    "es": "Enlace al sitio:",
+    "en": "Link to site:",
+    "de": "Link zur Seite:",
+    "pt": "Link para o site:"
+  },
+  "tb_1_enlace_al_repositorio": {
+    "data_binding": "[data-binding='tb_1_enlace_al_repositorio']",
+    "es": "Enlace al repositorio:",
+    "en": "Link to repository:",
+    "de": "Link zum Repository:",
+    "pt": "Link para o repositório:"
+  },
+  "tb_2_cliente": {
+    "data_binding": "[data-binding='tb_2_cliente']",
+    "es": "CLIENTE:",
+    "en": "CLIENT:",
+    "de": "KUNDE:",
+    "pt": "CLIENTE:"
+  },
+  "tb_2_fecha": {
+    "data_binding": "[data-binding='tb_2_fecha']",
+    "es": "FECHA:",
+    "en": "DATE:",
+    "de": "DATUM:",
+    "pt": "DATA:"
+  },
+  "tb_2_tipo": {
+    "data_binding": "[data-binding='tb_2_tipo']",
+    "es": "TIPO:",
+    "en": "TYPE:",
+    "de": "TYP:",
+    "pt": "TIPO:"
+  },
+  "tb_2_enlace_al_sitio": {
+    "data_binding": "[data-binding='tb_2_enlace_al_sitio']",
+    "es": "Enlace al sitio:",
+    "en": "Link to site:",
+    "de": "Link zur Seite:",
+    "pt": "Link para o site:"
+  },
+  "tb_2_enlace_al_repositorio": {
+    "data_binding": "[data-binding='tb_2_enlace_al_repositorio']",
+    "es": "Enlace al repositorio:",
+    "en": "Link to repository:",
+    "de": "Link zum Repository:",
+    "pt": "Link para o repositório:"
+  },
+  "tb_3_cliente": {
+    "data_binding": "[data-binding='tb_3_cliente']",
+    "es": "CLIENTE:",
+    "en": "CLIENT:",
+    "de": "KUNDE:",
+    "pt": "CLIENTE:"
+  },
+  "tb_3_fecha": {
+    "data_binding": "[data-binding='tb_3_fecha']",
+    "es": "FECHA:",
+    "en": "DATE:",
+    "de": "DATUM:",
+    "pt": "DATA:"
+  },
+  "tb_3_tipo": {
+    "data_binding": "[data-binding='tb_3_tipo']",
+    "es": "TIPO:",
+    "en": "TYPE:",
+    "de": "TYP:",
+    "pt": "TIPO:"
+  },
+  "tb_3_enlace_al_sitio": {
+    "data_binding": "[data-binding='tb_3_enlace_al_sitio']",
+    "es": "Enlace al sitio:",
+    "en": "Link to site:",
+    "de": "Link zur Seite:",
+    "pt": "Link para o site:"
+  },
+  "tb_3_enlace_al_repositorio": {
+    "data_binding": "[data-binding='tb_3_enlace_al_repositorio']",
+    "es": "Enlace al repositorio:",
+    "en": "Link to repository:",
+    "de": "Link zum Repository:",
+    "pt": "Link para o repositório:"
+  },
+  "tb_4_cliente": {
+    "data_binding": "[data-binding='tb_4_cliente']",
+    "es": "CLIENTE:",
+    "en": "CLIENT:",
+    "de": "KUNDE:",
+    "pt": "CLIENTE:"
+  },
+  "tb_4_fecha": {
+    "data_binding": "[data-binding='tb_4_fecha']",
+    "es": "FECHA:",
+    "en": "DATE:",
+    "de": "DATUM:",
+    "pt": "DATA:"
+  },
+  "tb_4_tipo": {
+    "data_binding": "[data-binding='tb_4_tipo']",
+    "es": "TIPO:",
+    "en": "TYPE:",
+    "de": "TYP:",
+    "pt": "TIPO:"
+  },
+  "tb_4_enlace_al_sitio": {
+    "data_binding": "[data-binding='tb_4_enlace_al_sitio']",
+    "es": "Enlace al sitio:",
+    "en": "Link to site:",
+    "de": "Link zur Seite:",
+    "pt": "Link para o site:"
+  },
+  "tb_4_enlace_al_repositorio": {
+    "data_binding": "[data-binding='tb_4_enlace_al_repositorio']",
+    "es": "Enlace al repositorio:",
+    "en": "Link to repository:",
+    "de": "Link zum Repository:",
+    "pt": "Link para o repositório:"
+  },
+  "tb_5_cliente": {
+    "data_binding": "[data-binding='tb_5_cliente']",
+    "es": "CLIENTE:",
+    "en": "CLIENT:",
+    "de": "KUNDE:",
+    "pt": "CLIENTE:"
+  },
+  "tb_5_fecha": {
+    "data_binding": "[data-binding='tb_5_fecha']",
+    "es": "FECHA:",
+    "en": "DATE:",
+    "de": "DATUM:",
+    "pt": "DATA:"
+  },
+  "tb_5_tipo": {
+    "data_binding": "[data-binding='tb_5_tipo']",
+    "es": "TIPO:",
+    "en": "TYPE:",
+    "de": "TYP:",
+    "pt": "TIPO:"
+  },
+  "tb_5_enlace_al_sitio": {
+    "data_binding": "[data-binding='tb_5_enlace_al_sitio']",
+    "es": "Enlace al sitio:",
+    "en": "Link to site:",
+    "de": "Link zur Seite:",
+    "pt": "Link para o site:"
+  },
+  "tb_5_enlace_al_repositorio": {
+    "data_binding": "[data-binding='tb_5_enlace_al_repositorio']",
+    "es": "Enlace al repositorio:",
+    "en": "Link to repository:",
+    "de": "Link zum Repository:",
+    "pt": "Link para o repositório:"
+  },
+  "tb_6_cliente": {
+    "data_binding": "[data-binding='tb_6_cliente']",
+    "es": "CLIENTE:",
+    "en": "CLIENT:",
+    "de": "KUNDE:",
+    "pt": "CLIENTE:"
+  },
+  "tb_6_fecha": {
+    "data_binding": "[data-binding='tb_6_fecha']",
+    "es": "FECHA:",
+    "en": "DATE:",
+    "de": "DATUM:",
+    "pt": "DATA:"
+  },
+  "tb_6_tipo": {
+    "data_binding": "[data-binding='tb_6_tipo']",
+    "es": "TIPO:",
+    "en": "TYPE:",
+    "de": "TYP:",
+    "pt": "TIPO:"
+  },
+  "tb_6_enlace_al_sitio": {
+    "data_binding": "[data-binding='tb_6_enlace_al_sitio']",
+    "es": "Enlace al sitio:",
+    "en": "Link to site:",
+    "de": "Link zur Seite:",
+    "pt": "Link para o site:"
+  },
+  "tb_6_enlace_al_repositorio": {
+    "data_binding": "[data-binding='tb_6_enlace_al_repositorio']",
+    "es": "Enlace al repositorio:",
+    "en": "Link to repository:",
+    "de": "Link zum Repository:",
+    "pt": "Link para o repositório:"
+  },
+  "tb_4_tipo_descripcion": {
+    "data_binding": "[data-binding='tb_4_tipo_descripcion']",
+    "es": "Informe Técnico de viabilidad",
+    "en": "Feasibility Technical Report",
+    "de": "Machbarkeitsbericht",
+    "pt": "Relatório Técnico de Viabilidade"
+  },
+  "tb_6_tipo_descripcion": {
+    "data_binding": "[data-binding='tb_6_tipo_descripcion']",
+    "es": "Trabajo de Laboratorio",
+    "en": "Laboratory Work",
+    "de": "Laborarbeit",
+    "pt": "Trabalho de Laboratório"
+  }
+}
