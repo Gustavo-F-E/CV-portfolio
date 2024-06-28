@@ -44,7 +44,7 @@ export default function traducir_elementos_formulario() {
             event.preventDefault();
             const language = event.target.getAttribute("data-lang");
             updateElements(language);
-            console.log(`Idioma cambiado a: ${language}`);
+            console.log(`Idioma formulario cambiado a: ${language}`);
         });
     });
 }

@@ -3,6 +3,7 @@ import barraDeProgreso from "./progress_bar.js";
 //import portfolio from "./portfolio.js";
 import traducir from "./data_binding_translate.js";
 import traducir_elementos_formulario from "./traducir_elementos_formulario.js";
+import CV_segun_idioma from "./CV_según_idioma.js";
 
 const d = document;
 
@@ -87,6 +88,7 @@ d.addEventListener("DOMContentLoaded", (e) => {
   traducir('js/modal.json');
   traducir('js/parte_final.json');
   traducir_elementos_formulario();
+  CV_segun_idioma();
 })
 
 
