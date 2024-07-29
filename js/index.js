@@ -72,7 +72,7 @@ d.addEventListener("DOMContentLoaded", (e) => {
   setTimeout(() => {
     let elemento = d.getElementById("hero-inicio");
     elemento.style.backgroundimage = "url(assets/web-developer.jpg)";
-  }, 1000);
+  }, 1);
 
   /* ********** Carga de barra de progreso ********** */
   barraDeProgreso();
