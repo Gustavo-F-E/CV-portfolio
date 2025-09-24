@@ -186,5 +186,117 @@
   "en": "Handling databases such as MySQL, PostgreSQL, and MongoDB.",
   "de": "Umgang mit Datenbanken wie MySQL, PostgreSQL und MongoDB. ",
   "pt": "Manejo de bancos de dados como MySQL, PostgreSQL e MongoDB."
-}
+},
+"novedades": {
+  "data_binding": "[data-binding='novedades']",
+  "es": "Novedades",
+  "en": "News",
+  "de": "Neuigkeiten",
+  "pt": "Novidades"
+},
+  "novedad_1_enlace": {
+    "data_binding": "[data-binding='novedad_1_enlace']",
+    "pt": "VER MAIS",
+    "de": "MEHR SEHEN",
+    "en": "SEE MORE",
+    "es": "VER MÁS"
+  },
+  "novedad_1_descripcion": {
+    "data_binding": "[data-binding='novedad_1_descripcion']",
+    "pt": "Método do disco dividido para medição de resistência",
+    "de": "Geteilte Scheibenmethode zur Festigkeitsmessung",
+    "en": "Split disk method for strength measurement",
+    "es": "Método de disco dividido para medición de resistencia"
+  },
+  "novedad_1_titulo": {
+    "data_binding": "[data-binding='novedad_1_titulo']",
+    "pt": "23/07/2024: ASTM D2290",
+    "de": "23.07.2024: ASTM D2290",
+    "en": "07/23/2024: ASTM D2290",
+    "es": "23/07/2024: ASTM D2290 "
+  },
+  "novedad_2_enlace": {
+    "data_binding": "[data-binding='novedad_2_enlace']",
+    "pt": "Minha tese",
+    "de": "Meine Thesis",
+    "en": "My thesis",
+    "es": "Mi tesis"
+  },
+  "novedad_2_descripcion": {
+    "data_binding": "[data-binding='novedad_2_descripcion']",
+    "pt": "Finalmente me formei!!!",
+    "de": "Endlich habe ich meinen Abschluss gemacht!!!",
+    "en": "I finally graduated!!!",
+    "es": "¡¡¡Finalmente me he recibido!!!"
+  },
+  "novedad_2_titulo": {
+    "data_binding": "[data-binding='novedad_2_titulo']",
+    "pt": "16/08/2024: Tese aprovada",
+    "de": "16.08.2024: Thesis bestanden",
+    "en": "08/16/2024: Thesis approved",
+    "es": "16/08/2024: Tesis aprobada"
+  },
+  "novedad_3_descripcion": {
+    "data_binding": "[data-binding='novedad_3_descripcion']",
+    "pt": "Medição de Tensões Residuais",
+    "de": "Messung von Eigenspannungen",
+    "en": "Residual Stress Measurement",
+    "es": "Medicion de Tensiones Residuales"
+  },
+  "novedad_3_titulo": {
+    "data_binding": "[data-binding='novedad_3_titulo']",
+    "pt": "14/09/2024: Método de Corte Incremental",
+    "de": "14.09.2024: Inkrementelle Schnittmethode",
+    "en": "09/14/2024: Incremental Cutting Method",
+    "es": "14/09/2024: Incremental Cutting Method"
+  },
+  "novedad_4_descripcion": {
+    "data_binding": "[data-binding='novedad_4_descripcion']",
+    "pt": "Resumo do meu trabalho na minha tese",
+    "de": "Zusammenfassung meiner Arbeit in meiner Thesis",
+    "en": "Summary of my work in my thesis",
+    "es": "Resumen de mi trabajo en mi tesis"
+  },
+  "novedad_4_titulo": {
+    "data_binding": "[data-binding='novedad_4_titulo']",
+    "pt": "17/09/2024: Filament Winding",
+    "de": "17.09.2024: Filament Winding",
+    "en": "09/17/2024: Filament Winding",
+    "es": "17/09/2024: Filament Winding"
+  },
+  "novedad_5_enlace": {
+    "data_binding": "[data-binding='novedad_5_enlace']",
+    "pt": "VER MAIS",
+    "de": "MEHR SEHEN",
+    "en": "SEE MORE",
+    "es": "VER MÁS"
+  },
+  "novedad_5_descripcion": {
+    "data_binding": "[data-binding='novedad_5_descripcion']",
+    "pt": "Minha tese foi indicada pela INVAP",
+    "de": "Meine Thesis wurde von INVAP nominiert",
+    "en": "My thesis has been nominated by INVAP",
+    "es": "Mi tesis ha sido ternada por INVAP"
+  },
+  "novedad_5_titulo": {
+    "data_binding": "[data-binding='novedad_5_titulo']",
+    "pt": "19/09/2025: Reconhecimento ao meu trabalho",
+    "de": "19.09.2025: Anerkennung meiner Arbeit",
+    "en": "09/19/2025: Recognition of my work",
+    "es": "19/09/2025: Reconocimiento a mi trabajo"
+  },
+  "novedad_6_descripcion": {
+    "data_binding": "[data-binding='novedad_6_descripcion']",
+    "pt": "Análise Modal",
+    "de": "Modalanalyse",
+    "en": "Modal Analysis",
+    "es": "Analisis Modal"
+  },
+  "novedad_6_titulo": {
+    "data_binding": "[data-binding='novedad_6_titulo']",
+    "pt": "23/09/2025: Minhas habilidades",
+    "de": "23.09.2025: Meine Fähigkeiten",
+    "en": "09/23/2025: My skills",
+    "es": "23/09/2025: Mis habilidades"
+  }
 }

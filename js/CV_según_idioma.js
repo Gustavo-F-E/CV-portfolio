@@ -5,13 +5,13 @@ export default function CV_segun_idioma() {
   function updateElements(language) {
 
     if (language === 'en') {
-      CV.href = "assets/CV_2024_Mechanical_Engineer.pdf";
+      CV.href = "assets/CV_Mechanical_Engineer.pdf";
     } else if (language === 'de') {
-      CV.href = "assets/CV_2024_Maschinenbauingenieur.pdf";
+      CV.href = "assets/CV_Maschinenbauingenieur.pdf";
     } else if (language === 'pt') {
-      CV.href = "assets/CV_2024_Engenheiro_Mecanico.pdf";
+      CV.href = "assets/CV_Engenheiro_Mecanico.pdf";
     } else {
-      CV.href = "assets/CV_2024_Ingeniero_Mecanico.pdf";
+      CV.href = "assets/CV_Ingeniero_Mecanico.pdf";
     }
 
     }

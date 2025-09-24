@@ -31,6 +31,21 @@ export default {
     const db_1 = ref('Bases de datos');
     const db_2 = ref('Manejo de bases de datos tales como MySQL, PostgreSQL y MongoDB.');
     const tb = ref('Algunos de mis trabajos');
+    const novedad_6_titulo = ref('23/09/2025: Mis habilidades');
+    const novedad_6_descripcion = ref('Analisis Modal');
+    const novedad_5_titulo = ref('19/09/2025: Reconocimiento a mi trabajo');
+    const novedad_5_descripcion = ref('Mi tesis ha sido ternada por INVAP');
+    const novedad_5_enlace = ref('VER MÁS');
+    const novedad_4_titulo = ref('17/09/2024: Filament Winding');
+    const novedad_4_descripcion = ref('Resumen de mi trabajo en mi tesis');
+    const novedad_3_titulo = ref('14/09/2024: Incremental Cutting Method');
+    const novedad_3_descripcion = ref('Medicion de Tensiones Residuales');
+    const novedad_2_titulo = ref('16/08/2024: Tesis aprobada');
+    const novedad_2_descripcion = ref('¡¡¡Finalmente me he recibido!!!');
+    const novedad_2_enlace = ref('Mi tesis');
+    const novedad_1_titulo = ref('23/07/2024: ASTM D2290 ');
+    const novedad_1_descripcion = ref('Método de disco dividido para medición de resistencia');
+    const novedad_1_enlace = ref('VER MÁS');
     console.log = (tb.value);
     /*************************************************************************
          * ********************************************************************
@@ -65,6 +80,24 @@ export default {
         db_1.value = 'Bases de datos';
         db_2.value = 'Manejo de bases de datos tales como MySQL, PostgreSQL y MongoDB.';
         tb.value = 'Algunos de mis trabajos';
+        novedad_6_titulo.value = '23/09/2025: Mis habilidades';
+        novedad_6_descripcion.value = 'Analisis Modal';
+        novedad_5_titulo.value = '19/09/2025: Reconocimiento a mi trabajo';
+        novedad_5_descripcion.value = 'Mi tesis ha sido ternada por INVAP';
+        novedad_5_enlace.value = 'VER MÁS';
+        novedad_4_titulo.value = '17/09/2024: Filament Winding';
+        novedad_4_descripcion.value = 'Resumen de mi trabajo en mi tesis';
+        novedad_3_titulo.value = '14/09/2024: Incremental Cutting Method';
+        novedad_3_descripcion.value = 'Medicion de Tensiones Residuales';
+        novedad_2_titulo.value = '16/08/2024: Tesis aprobada';
+        novedad_2_descripcion.value = '¡¡¡Finalmente me he recibido!!!';
+        novedad_2_enlace.value = 'Mi tesis';
+        novedad_1_titulo.value = '23/07/2024: ASTM D2290 ';
+        novedad_1_descripcion.value = 'Método de disco dividido para medición de resistencia';
+        novedad_1_enlace.value = 'VER MÁS';
+        /*************************************************************************
+         * ********************************************************************
+         **********************************************************************/
         /*************************************************************************
          * ********************************************************************
          **********************************************************************/
@@ -97,6 +130,21 @@ export default {
         db_1.value = 'Databases';
         db_2.value = 'Handling databases such as MySQL, PostgreSQL, and MongoDB.';
         tb.value = 'Some of my works';
+        novedad_6_titulo.value = '09/23/2025: My skills';
+        novedad_6_descripcion.value = 'Modal Analysis';
+        novedad_5_titulo.value = '09/19/2025: Recognition of my work';
+        novedad_5_descripcion.value = 'My thesis has been nominated by INVAP';
+        novedad_5_enlace.value = 'SEE MORE';
+        novedad_4_titulo.value = '09/17/2024: Filament Winding';
+        novedad_4_descripcion.value = 'Summary of my work in my thesis';
+        novedad_3_titulo.value = '09/14/2024: Incremental Cutting Method';
+        novedad_3_descripcion.value = 'Residual Stress Measurement';
+        novedad_2_titulo.value = '08/16/2024: Thesis approved';
+        novedad_2_descripcion.value = 'I finally graduated!!!';
+        novedad_2_enlace.value = 'My thesis';
+        novedad_1_titulo.value = '07/23/2024: ASTM D2290';
+        novedad_1_descripcion.value = 'Split disk method for strength measurement';
+        novedad_1_enlace.value = 'SEE MORE';
         /*************************************************************************
          * ********************************************************************
          **********************************************************************/
@@ -129,6 +177,21 @@ export default {
         db_1.value = 'Datenbanken';
         db_2.value = 'Umgang mit Datenbanken wie MySQL, PostgreSQL und MongoDB.'; 
         tb.value = 'Einige meiner Arbeiten';
+        novedad_6_titulo.value = '23.09.2025: Meine Fähigkeiten';
+        novedad_6_descripcion.value = 'Modalanalyse';
+        novedad_5_titulo.value = '19.09.2025: Anerkennung meiner Arbeit';
+        novedad_5_descripcion.value = 'Meine Thesis wurde von INVAP nominiert';
+        novedad_5_enlace.value = 'MEHR SEHEN';
+        novedad_4_titulo.value = '17.09.2024: Filament Winding';
+        novedad_4_descripcion.value = 'Zusammenfassung meiner Arbeit in meiner Thesis';
+        novedad_3_titulo.value = '14.09.2024: Inkrementelle Schnittmethode';
+        novedad_3_descripcion.value = 'Messung von Eigenspannungen';
+        novedad_2_titulo.value = '16.08.2024: Thesis bestanden';
+        novedad_2_descripcion.value = 'Endlich habe ich meinen Abschluss gemacht!!!';
+        novedad_2_enlace.value = 'Meine Thesis';
+        novedad_1_titulo.value = '23.07.2024: ASTM D2290';
+        novedad_1_descripcion.value = 'Geteilte Scheibenmethode zur Festigkeitsmessung';
+        novedad_1_enlace.value = 'MEHR SEHEN';
         /*************************************************************************
          * ********************************************************************
          **********************************************************************/
@@ -161,6 +224,21 @@ export default {
         db_1.value = 'Bancos de dados';
         db_2.value = 'Manejo de bancos de dados como MySQL, PostgreSQL e MongoDB.';
         tb.value = 'Alguns dos meus trabalhos';
+        novedad_6_titulo.value = '23/09/2025: Minhas habilidades';
+        novedad_6_descripcion.value = 'Análise Modal';
+        novedad_5_titulo.value = '19/09/2025: Reconhecimento ao meu trabalho';
+        novedad_5_descripcion.value = 'Minha tese foi indicada pela INVAP';
+        novedad_5_enlace.value = 'VER MAIS';
+        novedad_4_titulo.value = '17/09/2024: Filament Winding';
+        novedad_4_descripcion.value = 'Resumo do meu trabalho na minha tese';
+        novedad_3_titulo.value = '14/09/2024: Método de Corte Incremental';
+        novedad_3_descripcion.value = 'Medição de Tensões Residuais';
+        novedad_2_titulo.value = '16/08/2024: Tese aprovada';
+        novedad_2_descripcion.value = 'Finalmente me formei!!!';
+        novedad_2_enlace.value = 'Minha tese';
+        novedad_1_titulo.value = '23/07/2024: ASTM D2290';
+        novedad_1_descripcion.value = 'Método do disco dividido para medição de resistência';
+        novedad_1_enlace.value = 'VER MAIS';
     }
     };console.log = (tb.value);
     return {
@@ -192,6 +270,21 @@ export default {
       db_1,
       db_2,
       tb,
+      novedad_6_titulo,
+      novedad_6_descripcion,
+      novedad_5_titulo,
+      novedad_5_descripcion,
+      novedad_5_enlace,
+      novedad_4_titulo,
+      novedad_4_descripcion,
+      novedad_3_titulo,
+      novedad_3_descripcion,
+      novedad_2_titulo,
+      novedad_2_descripcion,
+      novedad_2_enlace,
+      novedad_1_titulo,
+      novedad_1_descripcion,
+      novedad_1_enlace,
       changeLanguage
     };
   }
