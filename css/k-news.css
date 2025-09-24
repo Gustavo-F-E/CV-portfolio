@@ -1,0 +1,31 @@
+#novedades{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.news-card{
+        margin-top: 5vh;
+        margin-bottom: 2vh;
+    }
+
+.news-card div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.news-card div p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#recibido{
+    height: auto;
+    width: 60%;
+}
