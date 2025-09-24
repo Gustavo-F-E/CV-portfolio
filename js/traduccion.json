@@ -13,6 +13,13 @@
     "de" : "Über mich",
     "pt" : "Sobre mim"
   },
+  "menu_novedades" : {
+    "data_binding" : "[data-binding='menu_novedades']",
+    "es": "Novedades",
+    "en": "News",
+    "de": "Neuigkeiten",
+    "pt": "Novidades"
+  },
   "menu_servicios" : {
     "data_binding" : "[data-binding='menu_servicios']",
     "es" : "Servicios",
