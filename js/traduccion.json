@@ -305,5 +305,20 @@
     "de": "23.09.2025: Meine Fähigkeiten",
     "en": "09/23/2025: My skills",
     "es": "23/09/2025: Mis habilidades"
+  },
+  "novedad_7_descripcion": {
+    "data_binding": "[data-binding='novedad_7_descripcion']",
+    "pt": "Idealização Geométrica no Siemens NX",
+    "de": "Geometrische Idealisierung in Siemens NX",
+    "en": "Geometric Idealization in Siemens NX",
+    "es": "Idealización Geométrica en Siemens NX"
+  },
+  "novedad_7_titulo": {
+    "data_binding": "[data-binding='novedad_7_titulo']",
+    "pt": "23/09/2025: Minhas habilidades",
+    "de": "23.09.2025: Meine Fähigkeiten",
+    "en": "09/23/2025: My skills",
+    "es": "23/09/2025: Mis habilidades"
   }
 }
+
