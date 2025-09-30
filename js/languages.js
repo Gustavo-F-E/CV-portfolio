@@ -31,6 +31,8 @@ export default {
     const db_1 = ref('Bases de datos');
     const db_2 = ref('Manejo de bases de datos tales como MySQL, PostgreSQL y MongoDB.');
     const tb = ref('Algunos de mis trabajos');
+    const novedad_7_titulo = ref('30/09/2025: Mis habilidades');
+    const novedad_7_descripcion = ref('Idealización Geométrica en Siemens NX');
     const novedad_6_titulo = ref('23/09/2025: Mis habilidades');
     const novedad_6_descripcion = ref('Analisis Modal');
     const novedad_5_titulo = ref('19/09/2025: Reconocimiento a mi trabajo');
@@ -80,6 +82,8 @@ export default {
         db_1.value = 'Bases de datos';
         db_2.value = 'Manejo de bases de datos tales como MySQL, PostgreSQL y MongoDB.';
         tb.value = 'Algunos de mis trabajos';
+        novedad_7_titulo.value = '30/09/2025: Mis habilidades';
+        novedad_7_descripcion.value = 'Idealización Geométrica en Siemens NX';
         novedad_6_titulo.value = '23/09/2025: Mis habilidades';
         novedad_6_descripcion.value = 'Analisis Modal';
         novedad_5_titulo.value = '19/09/2025: Reconocimiento a mi trabajo';
@@ -130,6 +134,8 @@ export default {
         db_1.value = 'Databases';
         db_2.value = 'Handling databases such as MySQL, PostgreSQL, and MongoDB.';
         tb.value = 'Some of my works';
+        novedad_7_titulo.value = '09/30/2025: My skills';
+        novedad_7_descripcion.value = 'Geometric Idealization in Siemens NX';
         novedad_6_titulo.value = '09/23/2025: My skills';
         novedad_6_descripcion.value = 'Modal Analysis';
         novedad_5_titulo.value = '09/19/2025: Recognition of my work';
@@ -177,6 +183,8 @@ export default {
         db_1.value = 'Datenbanken';
         db_2.value = 'Umgang mit Datenbanken wie MySQL, PostgreSQL und MongoDB.'; 
         tb.value = 'Einige meiner Arbeiten';
+        novedad_7_titulo.value = '30.09.2025: Meine Fähigkeiten';
+        novedad_7_descripcion.value = 'Geometrische Idealisierung in Siemens NX';
         novedad_6_titulo.value = '23.09.2025: Meine Fähigkeiten';
         novedad_6_descripcion.value = 'Modalanalyse';
         novedad_5_titulo.value = '19.09.2025: Anerkennung meiner Arbeit';
@@ -224,6 +232,8 @@ export default {
         db_1.value = 'Bancos de dados';
         db_2.value = 'Manejo de bancos de dados como MySQL, PostgreSQL e MongoDB.';
         tb.value = 'Alguns dos meus trabalhos';
+        novedad_7_titulo.value = '30/09/2025: Minhas habilidades';
+        novedad_7_descripcion.value = 'Idealização Geométrica no Siemens NX';
         novedad_6_titulo.value = '23/09/2025: Minhas habilidades';
         novedad_6_descripcion.value = 'Análise Modal';
         novedad_5_titulo.value = '19/09/2025: Reconhecimento ao meu trabalho';
@@ -270,6 +280,8 @@ export default {
       db_1,
       db_2,
       tb,
+      novedad_7_titulo,
+      novedad_7_descripcion,
       novedad_6_titulo,
       novedad_6_descripcion,
       novedad_5_titulo,
@@ -289,5 +301,6 @@ export default {
     };
   }
 };
+
 
 //.value
