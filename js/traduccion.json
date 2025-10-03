@@ -319,6 +319,28 @@
     "de": "23.09.2025: Meine Fähigkeiten",
     "en": "09/23/2025: My skills",
     "es": "23/09/2025: Mis habilidades"
+  },
+  "novedad_8_descripcion": {
+    "data_binding": "[data-binding='novedad_8_descripcion']",
+    "pt": "Publicação do Instituto Sábato sobre minha tese",
+    "de": "Beitrag des Instituto Sabato über meine Abschlussarbeit",
+    "en": "Post by Instituto Sabato about my thesis",
+    "es": "Posteo del Instituto Sábato sobre mi tesis"
+  },
+  "novedad_8_titulo": {
+    "data_binding": "[data-binding='novedad_8_titulo']",
+    "pt": "03/10/2025: Reconhecimento pelo meu trabalho",
+    "de": "03.10.2025: Anerkennung meiner Arbeit",
+    "en": "10/03/2025: Recognition of my work",
+    "es": "03/10/2025: Reconocimiento a mi trabajo"
+  },
+  "novedad_8_enlace": {
+    "data_binding": "[data-binding='novedad_8_enlace']",
+    "pt": "Minha tese",
+    "de": "Meine Thesis",
+    "en": "My thesis",
+    "es": "Mi tesis"
   }
 }
+
 
