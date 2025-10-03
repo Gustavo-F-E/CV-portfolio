@@ -40,7 +40,7 @@
 
 .sabato_iframe{
     width:90vw;
-    height: calc(90vw * 504 / 877);
+    height: calc(90vw * 877 / 504);
     padding: 2vh 0vh;
 }
 
@@ -53,7 +53,7 @@
     
 .sabato_iframe{
     width:70vw;
-    height: calc(70vw * 504 / 877);
+    height: calc(70vw * 877 /504);
     padding: 2vh 0vh;
 }
 }
@@ -67,8 +67,9 @@
 
 .sabato_iframe{
     width:40vw;
-    height: calc(40vw * 504 / 877);
+    height: calc(40vw * 877 / 504);
     padding: 2vh 0vh;
 }
 }
+
 
