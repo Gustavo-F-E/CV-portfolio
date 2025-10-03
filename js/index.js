@@ -36,8 +36,9 @@ const d = document;
   $form.addEventListener("submit", (e) => {
     e.preventDefault();
     $loader.classList.remove("none");
-    fetch("https://formsubmit.co/ajax/your@email.com", {
+    fetch("https://formspree.io/f/xgvnybzv", {
       method: "POST",
+      headers: { "Accept": "application/json" },
       body: new FormData(e.target),
     })
       .then((res) => (res.ok ? res.json() : Promise.reject(res)))
@@ -71,7 +72,7 @@ d.addEventListener("DOMContentLoaded", (e) => {
   /* ********** Carga de imagen de más definicion ********** */
   setTimeout(() => {
     let elemento = d.getElementById("hero-inicio");
-    elemento.style.backgroundimage = "url(assets/web-developer.jpg)";
+    elemento.style.backgroundImage = "url(assets/web-developer.jpg)";
   }, 0.1);
 
   /* ********** Carga de barra de progreso ********** */
