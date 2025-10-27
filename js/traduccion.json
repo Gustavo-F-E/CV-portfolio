@@ -340,7 +340,29 @@
     "de": "Meine Thesis",
     "en": "My thesis",
     "es": "Mi tesis"
+  },
+    "novedad_9_descripcion": {
+    "data_binding": "[data-binding='novedad_9_descripcion']",
+    "pt": "Melhor tese de mestrado da Argentina",
+    "de": "Beste Masterarbeit aus Argentinien",
+    "en": "Best Master's Thesis from Argentina",
+    "es": "Mejor tesis de maestría de Argentina"
+  },
+  "novedad_9_titulo": {
+    "data_binding": "[data-binding='novedad_9_titulo']",
+    "pt": "17/10/2025: Premiação da INVAP",
+    "de": "17.10.2025: INVAP-Preisverleihung",
+    "en": "10/17/2025: INVAP Awards Ceremony",
+    "es": "17/10/2025: Premiación INVAP"
+  },
+  "novedad_9_enlace": {
+    "data_binding": "[data-binding='novedad_9_enlace']",
+    "pt": "Minha tese",
+    "de": "Meine Thesis",
+    "en": "My thesis",
+    "es": "Mi tesis"
   }
 }
+
 
 
