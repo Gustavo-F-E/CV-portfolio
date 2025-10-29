@@ -361,8 +361,30 @@
     "de": "Meine Thesis",
     "en": "My thesis",
     "es": "Mi tesis"
+  },
+    "novedad_10_descripcion": {
+    "data_binding": "[data-binding='novedad_10_descripcion']",
+    "pt": "Instalações do NIAR (WSU, Wichita, KS, USA)",
+    "de": "Einrichtungen des NIAR (WSU, Wichita, KS, USA)",
+    "en": "NIAR facilities(WSU, Wichita, KS, USA)",
+    "es": "Instalaciones del NIAR (WSU, Wichita, KS, USA)"
+  },
+  "novedad_10_titulo": {
+    "data_binding": "[data-binding='novedad_10_titulo']",
+    "pt": "24/10/2025: Composites Hands-On training course",
+    "de": "24/10/2025: Composites Hands-On training course",
+    "en": "10/24/2025: Composites Hands-On training course",
+    "es": "24/10/2025: Composites Hands-On training course"
+  },
+  "novedad_10_enlace": {
+    "data_binding": "[data-binding='novedad_10_enlace']",
+    "pt": "Detalhes do curso",
+    "de": "Kursdetails",
+    "en": "Course details",
+    "es": "Detalles del curso"
   }
 }
+
 
 
 
